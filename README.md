@@ -1,2 +1,2 @@
 # portfolio-website
-Personal portfolio website -> html css javascript
+Personal portfolio website -> JAVASCRIPT CSS HTML

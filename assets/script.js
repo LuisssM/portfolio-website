@@ -49,7 +49,7 @@ addEventOnElem(navLinks, "click", closeNavbar);
 const header = document.querySelector("[data-header]");
 
 window.addEventListener("scroll", function () {
-  if (window.scrollY > 100) {
+  if (window.scrollY > 100) { // number of pixels that the document is currently scrolled vertically.
     header.classList.add("active");
   } else {
     header.classList.remove("active");
